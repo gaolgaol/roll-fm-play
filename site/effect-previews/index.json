@@ -1,0 +1,82 @@
+[
+  {
+    "file": "../effect-previews/Kennen-R.json",
+    "champion": "Kennen",
+    "slot": "R",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "케넨 R · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Kennen-Q.json",
+    "champion": "Kennen",
+    "slot": "Q",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "케넨 Q · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Kennen-E.json",
+    "champion": "Kennen",
+    "slot": "E",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "케넨 E · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Ashe-R.json",
+    "champion": "Ashe",
+    "slot": "R",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "애쉬 R · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Ashe-W.json",
+    "champion": "Ashe",
+    "slot": "W",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "애쉬 W · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Garen-E.json",
+    "champion": "Garen",
+    "slot": "E",
+    "actor": "blue-MID",
+    "time": 0.375,
+    "label": "가렌 E · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Garen-R.json",
+    "champion": "Garen",
+    "slot": "R",
+    "actor": "blue-MID",
+    "time": 0.5,
+    "label": "가렌 R · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  },
+  {
+    "file": "../effect-previews/Ezreal-R.json",
+    "champion": "Ezreal",
+    "slot": "R",
+    "actor": "blue-MID",
+    "time": 1,
+    "label": "이즈리얼 R · 연습 시전",
+    "source": "controlled-practice",
+    "note": "Positions, level18, HP10000, resource1000 and AP100 are controlled; production cast and fixed ticks. Not a natural match."
+  }
+]
