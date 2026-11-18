@@ -1,8 +1,8 @@
 {
-  "version": "0.44.0-postfinal-media",
-  "commit": "c1d04bd6ebb11d32cc898f2a78a6fa5a36e342ab",
-  "built_at": "2026-11-18T00:27:21.066Z",
-  "files": 807,
-  "bytes": 428138496,
-  "content_sha256": "eef79b91a7b894e61f472bde4322a557943b2a27aaa692c1588693a00528e488"
+  "version": "0.44.1-evidence-integrity",
+  "commit": "ab1b3b6c15010c16b70fde116329fb90940092d8",
+  "built_at": "2026-11-18T04:22:49.757Z",
+  "files": 808,
+  "bytes": 431502895,
+  "content_sha256": "3b119d78715362284a56eb9af77aa854fc2807d04aee9811991e45d0b1e40141"
 }
