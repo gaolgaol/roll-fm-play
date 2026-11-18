@@ -1,8 +1,8 @@
 {
-  "version": "0.43.0-player-data-ai",
-  "commit": "13ec60bf09c6707d081e2f02e62123814cd83ec0",
-  "built_at": "2026-11-15T07:10:02.208Z",
-  "files": 803,
-  "bytes": 412127117,
-  "content_sha256": "24e87edb4f19358036764e6ce85e5126233d8c3d958fe9a05b4c78de6579df79"
+  "version": "0.44.0-postfinal-media",
+  "commit": "c1d04bd6ebb11d32cc898f2a78a6fa5a36e342ab",
+  "built_at": "2026-11-18T00:27:21.066Z",
+  "files": 807,
+  "bytes": 428138496,
+  "content_sha256": "eef79b91a7b894e61f472bde4322a557943b2a27aaa692c1588693a00528e488"
 }
