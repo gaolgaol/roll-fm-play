@@ -1,8 +1,8 @@
 {
-  "version": "0.45.0-preview.1",
-  "commit": "0b3e07f4a2e5fe92432957119e64312c8b67121d",
-  "built_at": "2026-11-19T00:06:12.115Z",
+  "version": "0.45.0-preview.2",
+  "commit": "7423cffbeec32eee6814da2f37f624930a6b4fec",
+  "built_at": "2026-11-19T03:49:58.336Z",
   "files": 809,
-  "bytes": 434595855,
-  "content_sha256": "2a15df3b0813bf9004e45b3987564221da9cb7bc66b7b1ab0d698a28828d426a"
+  "bytes": 434605932,
+  "content_sha256": "63c91129444287b11c442bd8c06d80dc19f51a1d3e467a1b16c64bc5676c8fef"
 }
