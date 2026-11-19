@@ -1,9 +1,9 @@
 {
-  "version": "0.45.0-preview.3",
-  "commit": "67ee6e0bd8acdec7336ed66fce631297517febe8",
-  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1",
-  "built_at": "2026-11-19T07:40:12.089Z",
+  "version": "0.45.0-preview.4",
+  "commit": "9fcc3a84f28003cc1d1b358545a049ef1f850926",
+  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1,mechanicsCorrections:1",
+  "built_at": "2026-11-19T11:07:16.335Z",
   "files": 809,
-  "bytes": 434687903,
-  "content_sha256": "6aee78b59ad45b9bb9f699ff414c54ce1443a1a652577e5ff0a675469d6786d3"
+  "bytes": 434703055,
+  "content_sha256": "754df61e7258aa9afe76c4faff403368a7442de634546b5bc67af3730fc91847"
 }
