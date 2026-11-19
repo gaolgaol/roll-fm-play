@@ -1,8 +1,8 @@
 {
-  "version": "0.44.2-evidence-boundaries",
-  "commit": "918aee7fbb1714b830390b15570102dfe7686a72",
-  "built_at": "2026-11-18T12:49:42.465Z",
+  "version": "0.45.0-preview.1",
+  "commit": "0b3e07f4a2e5fe92432957119e64312c8b67121d",
+  "built_at": "2026-11-19T00:06:12.115Z",
   "files": 809,
-  "bytes": 434589943,
-  "content_sha256": "7c798e32c5d59e26389f014d53e2ff1b0ba1895928af2dac8518f07e9f142777"
+  "bytes": 434595855,
+  "content_sha256": "2a15df3b0813bf9004e45b3987564221da9cb7bc66b7b1ab0d698a28828d426a"
 }
