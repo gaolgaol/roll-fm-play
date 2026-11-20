@@ -1,9 +1,9 @@
 {
-  "version": "0.45.0-preview.9",
-  "commit": "6725fff89fa4f2bd18bd7112a3a6134717881bf6",
-  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1,mechanicsCorrections:1,contentItem:1,contentRune:1,contentChampion:1,contentAction:1,expandedItem:1,expandedRune:1,expandedChampion:1,executionPath:1,remainingMechanics:1,remainingPaths:1",
-  "built_at": "2026-11-20T09:50:41.222Z",
+  "version": "0.45.0-preview.10",
+  "commit": "163c0f425757ef4b4c36a9c95a5ec58f406a03c1",
+  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1,mechanicsCorrections:1,contentItem:1,contentRune:1,contentChampion:1,contentAction:1,expandedItem:1,expandedRune:1,expandedChampion:1,executionPath:1,remainingMechanics:1,remainingPaths:1,missingSkills:1",
+  "built_at": "2026-11-20T12:11:43.577Z",
   "files": 809,
-  "bytes": 435155167,
-  "content_sha256": "0fde8961a1fec40852258d4f417a96cfbbeb7f409f846d068fc21595f55702a3"
+  "bytes": 435245602,
+  "content_sha256": "09ee98c605a78f286ebc7097ff5732af36a0cb03933cb0f30451e30b45ee2975"
 }
