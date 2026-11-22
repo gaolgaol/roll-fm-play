@@ -1,9 +1,9 @@
 {
-  "version": "0.45.0-preview.13",
-  "commit": "c6390a5ddbf780c9cdc13535661fe4989790bc95",
-  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1,mechanicsCorrections:1,contentItem:1,contentRune:1,contentChampion:1,contentAction:1,expandedItem:1,expandedRune:1,expandedChampion:1,executionPath:1,remainingMechanics:1,remainingPaths:1,missingSkills:1,remainingSkills:1,passiveContent:1,contentCompletion13:1",
-  "built_at": "2026-11-21T11:29:06.760Z",
+  "version": "0.45.0-preview.14",
+  "commit": "7afca82e8354739506b4a96381bd6075adf0a9c1",
+  "mechanics": "runeMotion:1,nocturneQ:1,itemMechanics:1,pixMechanics:1,oriannaMechanics:1,mechanicsCorrections:1,contentItem:1,contentRune:1,contentChampion:1,contentAction:1,expandedItem:1,expandedRune:1,expandedChampion:1,executionPath:1,remainingMechanics:1,remainingPaths:1,missingSkills:1,remainingSkills:1,passiveContent:1,contentCompletion13:1,contentCompletion14:1",
+  "built_at": "2026-11-22T09:13:21.381Z",
   "files": 809,
-  "bytes": 435420457,
-  "content_sha256": "e8c326f5ebc37a7309ce054cc4d1ca607cc81636dc1094b22ba6792e787e45e7"
+  "bytes": 435472174,
+  "content_sha256": "9dd4449cba723876de22f7f2b5c5e25c407e654c270644bfdb4bcf2c6bfea09d"
 }
